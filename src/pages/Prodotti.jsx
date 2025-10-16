@@ -1,18 +1,17 @@
 import AppHeader from "../components/AppHeader.Jsx"
 import AppFooter from "../components/AppFooter"
 
-export default function Prodotti() {
+export default function Prodtti() {
 
     return (
+
         <>
             <AppHeader />
 
-            <main>
-                <p>Prodotti</p>
-            </main>
+            <main>ProdottiProdottiProdottiProdottiProdottiProdottiProdottiProdottiProdottiProdottiProdotti</main>
 
             <AppFooter />
-
         </>
+
     )
 }

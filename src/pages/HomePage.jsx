@@ -3,19 +3,15 @@ import AppFooter from "../components/AppFooter"
 
 export default function HomePage() {
 
-
     return (
 
         <>
             <AppHeader />
 
-            <main>ß
-                cia ciao ciao
-            </main>
+            <main>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam pariatur praesentium debitis repellat, nobis quis architecto illo deleniti illum odit? Itaque dolorum autem reiciendis aperiam consectetur! Exercitationem consectetur facere nobis?</main>
 
             <AppFooter />
-
         </>
+
     )
 }
-
