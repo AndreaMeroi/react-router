@@ -1,11 +1,14 @@
-export default function Header() {
+export default function AppHeader() {
 
     return (
 
-        <nav>
-            <NavLink to="/">Home</NavLink>
-            <NavLink to="/ChiSiamo">ChiSiamo</NavLink>
-            <NavLink to="/Prodotti">Prodotti</NavLink>
-        </nav>
+        <header>
+            Welcome
+            <nav>
+                <a href="/">Home</a>
+                <a href="/ChiSiamo">Chi Siamo</a>
+                <a href="//prodotti">Prodotti</a>
+            </nav>
+        </header>
     )
 }

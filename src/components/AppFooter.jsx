@@ -1,10 +1,10 @@
-export default function Footer() {
+export default function AppFooter() {
+
     return (
-        <div>
-            <h2>Contatti</h2>
-            <p>Email</p>
-            <p>telefono</p>
-        </div>
+
+        <footer>
+            <p>Copyright2025</p>
+        </footer>
 
 
 

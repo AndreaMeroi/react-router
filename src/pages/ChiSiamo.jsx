@@ -1,6 +1,18 @@
+import AppHeader from "../components/AppHeader.Jsx"
+import AppFooter from "../components/AppFooter"
+
 export default function ChiSiamo() {
 
     return (
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto eligendi repellat voluptatibus, facilis vel error, ipsa, dicta delectus consequuntur quis cumque. Totam fuga dolorum maxime molestias adipisci perspiciatis! Deserunt, ullam.</p>
+        <>
+            <AppHeader />
+
+            <main>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima possimus nostrum veniam vitae quis. Quisquam, eligendi? Voluptatum nihil cumque laboriosam eos, nobis ad nemo! Ex rem inventore doloremque explicabo aliquid cum ea quod quidem culpa quibusdam dolorem id, reiciendis odio? Quaerat ipsum omnis non modi nobis doloremque nemo, quo voluptatibus.
+            </main>
+
+            <AppFooter />
+
+        </>
     )
 }

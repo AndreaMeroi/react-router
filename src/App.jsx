@@ -2,13 +2,11 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 
-// import components
-import DefaultLayout from "./components/AppDefaultLayout"
-
 // import pages 
 import HomePage from "./pages/HomePage"
 import ChiSiamo from "./pages/ChiSiamo"
 import Prodotti from "./pages/ProdottiPage"
+
 
 
 
