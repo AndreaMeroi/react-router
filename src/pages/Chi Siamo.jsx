@@ -6,11 +6,11 @@ export default function ChiSiamo() {
     return (
 
         <>
-            <AppHeader />
+
 
             <main>ChiSiamo?ChiSiamo?ChiSiamo?ChiSiamo?ChiSiamo?ChiSiamo?ChiSiamo?ChiSiamo?ChiSiamo?ChiSiamo?</main>
 
-            <AppFooter />
+
         </>
 
     )

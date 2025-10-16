@@ -8,7 +8,7 @@ export default function Prodtti() {
     return (
 
         <>
-            <AppHeader />
+
 
             <main>
                 <div className="container">
@@ -55,7 +55,7 @@ export default function Prodtti() {
                 </div>
             </main>
 
-            <AppFooter />
+
         </>
 
     )
