@@ -4,10 +4,10 @@ export default function AppFooter() {
 
     return (
         <footer className="bg-black text-white">
-            <div container-fluid>
+            <div className="container-fluid text-center">
                 <div className="row">
 
-                    <div col-12 col-sm-6 col-md-4>
+                    <div className="col-12 col-sm-6 col-md-4">
                         <h3>Quick links</h3>
                         <ul className="list-unstyled">
                             <li><Link to="/">Home</Link></li>
@@ -15,7 +15,7 @@ export default function AppFooter() {
                             <li><Link to="/Prodotti">Prodotti</Link></li>
                         </ul>
                     </div>
-                    <div col-12 col-sm-6 col-md-4>
+                    <div className="col-12 col-sm-6 col-md-4">
                         <h3>Cookies</h3>
                         <ul className="list-unstyled">
                             <li><Link to="/">Home</Link></li>
@@ -23,7 +23,7 @@ export default function AppFooter() {
                             <li><Link to="/Prodotti">Prodotti</Link></li>
                         </ul>
                     </div>
-                    <div col-12 col-sm-6 col-md-4>
+                    <div className="col-12 col-sm-6 col-md-4">
                         <h3>Policy</h3>
                         <ul className="list-unstyled">
                             <li><Link to="/">Home</Link></li>
